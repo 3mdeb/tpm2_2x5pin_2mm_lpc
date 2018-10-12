@@ -25,15 +25,12 @@ F 3 "" H 10750 6150 50  0001 C CNN
 	1    10750 6150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	10750 5700 10750 5800
 Connection ~ 10750 6000
 Wire Wire Line
 	10750 6000 10750 6100
 Connection ~ 10750 5900
 Wire Wire Line
 	10750 5900 10750 6000
-Connection ~ 10750 5800
 Wire Wire Line
 	10750 5800 10750 5900
 $Comp
@@ -76,8 +73,6 @@ Wire Wire Line
 	9150 5650 9350 5650
 Wire Wire Line
 	10250 5400 10350 5400
-Wire Wire Line
-	10250 5700 10750 5700
 Wire Wire Line
 	10250 5800 10750 5800
 Wire Wire Line
@@ -390,7 +385,7 @@ U 1 1 5BA8F941
 P 9800 5500
 F 0 "U1" H 9800 6315 50  0000 C CNN
 F 1 "SLB9665" H 9800 6224 50  0000 C CNN
-F 2 "Package_SO:TSSOP-28-1EP_4.4x9.7mm_P0.65mm" H 9750 5625 50  0001 C CNN
+F 2 "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm" H 9750 5625 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/Infineon-TPM%20SLB%209665-DS-v10_15-EN.pdf?fileId=5546d4625185e0e201518b83d9273d87" H 9750 5625 50  0001 C CNN
 	1    9800 5500
 	1    0    0    -1  
