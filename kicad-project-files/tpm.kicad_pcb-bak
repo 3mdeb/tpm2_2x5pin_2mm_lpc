@@ -747,7 +747,7 @@
       (xy -5.680075 2.606675) (xy -5.589588 2.604913) (xy -5.4991 2.603151) (xy -5.4991 3.6068)) (layer F.SilkS) (width 0.01))
   )
 
-  (gr_text "TPM 2.0" (at 129.9718 101.5365 90) (layer F.SilkS) (tstamp 5BC06570)
+  (gr_text "TPM 2.0" (at 128.9304 101.5365 90) (layer F.SilkS) (tstamp 5BC06570)
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_line (start 110.617 108.204) (end 110.617 94.996) (layer Edge.Cuts) (width 0.15))
