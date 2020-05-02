@@ -29,6 +29,11 @@ sure that the pinout corresponds to the one from the image below:
 
 ![tpm2-2x5pin-2mm-lpc-pinout](img/pin-layout.png)
 
+## License
+
+* Hardware is licensed under [CERN license](LICENSE.txt)
+* Documentation is licensed under [CC BY-SA license](https://creativecommons.org/licenses/by-sa/2.0/)
+
 ## Where can I buy this product?
 
 If you are not the enthusiast of DYI, then the plug and play product can be
